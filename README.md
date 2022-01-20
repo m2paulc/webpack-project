@@ -10,3 +10,7 @@ Trying out Webpack 5
 * set src folder
   * create index.js file
 * include dist folder in .gitignore
+* install BABEL as dev dependencies
+  * babel-loader // for webpack
+  * @babel/core
+  * @babel/preset-env
